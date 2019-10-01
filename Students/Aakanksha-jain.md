@@ -1,6 +1,6 @@
 # Aakanksha Jain
 
-## Whoami:
+## Who am i:
 I’m a CSE major undergraduate student currently residing in Jaipur, India. I like to code, read, write, draw and dream to travel a lot! 
 
 I work on Python majorly, with web development being next. Artificial intelligence fascinates me and I hope to work on same in future. Apart from that, I contribute to open-source, and am an active sports programmer
